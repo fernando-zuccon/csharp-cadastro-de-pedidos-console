@@ -1,1 +1,1 @@
-# csharp-cadastro-de-pedidos-console
+# Aplicação em c# para cadastro de pedidos
