@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj": {}
+    "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj": {}
   },
   "projects": {
-    "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj": {
+    "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
+        "projectUniqueName": "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
         "projectName": "csharp-cadastro-de-pedidos-console",
-        "projectPath": "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
+        "projectPath": "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
         "packagesPath": "/home/fernando_zuccon/.nuget/packages/",
-        "outputPath": "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/obj/",
+        "outputPath": "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fernando_zuccon/.nuget/NuGet/NuGet.Config"

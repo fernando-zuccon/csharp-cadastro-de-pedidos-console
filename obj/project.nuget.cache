@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1Sb+LUaulonQ/uQ7sm5AK235uj4lMDgNNGKLxueULAGVrzpfH3x24IxdRyUcxfpPKYAO8JRbQ9JU1Vr1veU/w==",
+  "dgSpecHash": "+D5q7K9zSnCR38weBF4K2NMVp/5rXlmWC3XRyz7NIDKCXHLJlJmLzxagyAwXS9DcU1MG1qSTyiPVfY6+jxah9w==",
   "success": true,
-  "projectFilePath": "/home/fernando_zuccon/projetos/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
+  "projectFilePath": "/home/fernando_zuccon/RiderProjects/csharp-cadastro-de-pedidos-console/csharp-cadastro-de-pedidos-console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
